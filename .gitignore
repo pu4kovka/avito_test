@@ -1,13 +1,13 @@
+# Python
 __pycache__/
 *.pyc
-*.pyo
-.env
 venv/
-.venv/
-.vscode/
-.idea/
+.env
+
+# OS
 .DS_Store
 Thumbs.db
-*.db
-*.sqlite3
-*.log
+
+# IDE
+.vscode/
+.idea/
